@@ -1,5 +1,5 @@
 {
-    "name": "raideron-eslint",
+    "name": "alex-lint",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Raideron/raideron-eslint.git"
+        "url": "git+https://github.com/Raideron/alex-lint.git"
     },
-    "author": "",
+    "author": "Alex Poley",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Raideron/raideron-eslint/issues"
+        "url": "https://github.com/Raideron/alex-lint/issues"
     },
-    "homepage": "https://github.com/Raideron/raideron-eslint#readme",
+    "homepage": "https://github.com/Raideron/alex-lint#readme",
     "dependencies": {
         "@typescript-eslint/eslint-plugin": "^4.1.0",
         "@typescript-eslint/parser": "^4.1.0",
